@@ -1,0 +1,150 @@
+2022-02-18/15:56:59		entered into homepage
+2022-02-18/15:57:09		database  connected
+2022-02-18/15:57:09		database connected and created table successfully
+2022-02-18/15:57:10		database closed suceesfully@app
+2022-02-18/15:57:10		App started. Exiting method...
+2022-02-18/15:57:28		Getting input from Form
+2022-02-18/15:57:28		Entered into predict function@app
+2022-02-18/15:57:38		entered input data into the database successfully@app
+2022-02-18/15:57:38		signout from db@app
+2022-02-18/15:57:39		Prediction for data complete
+2022-02-20/20:45:46		entered into homepage
+2022-02-20/20:45:56		database  connected
+2022-02-20/20:45:56		database connected and created table successfully
+2022-02-20/20:45:56		database closed suceesfully@app
+2022-02-20/20:45:56		App started. Exiting method...
+2022-02-20/20:46:15		Getting input from Form
+2022-02-20/20:46:51		Entered into predict function@app
+2022-02-20/20:46:59		entered input data into the database successfully@app
+2022-02-20/20:47:00		signout from db@app
+2022-02-20/20:47:04		Prediction for data complete
+2022-02-20/20:48:17		entered into homepage
+2022-02-20/20:48:26		database  connected
+2022-02-20/20:48:26		database connected and created table successfully
+2022-02-20/20:48:27		database closed suceesfully@app
+2022-02-20/20:48:27		App started. Exiting method...
+2022-02-20/20:48:49		Getting input from Form
+2022-02-20/20:48:50		Entered into predict function@app
+2022-02-20/20:48:58		entered input data into the database successfully@app
+2022-02-20/20:49:00		signout from db@app
+2022-02-20/20:49:03		Prediction for data complete
+2022-03-25/18:19:03		entered into homepage
+2022-03-25/18:19:12		database  connected
+2022-03-25/18:19:12		database connected and created table successfully
+2022-03-25/18:19:13		database closed suceesfully@app
+2022-03-25/18:19:14		App started. Exiting method...
+2022-03-25/18:19:31		Getting input from Form
+2022-03-25/18:19:55		Entered into predict function@app
+2022-03-25/18:20:05		entered input data into the database successfully@app
+2022-03-25/18:20:05		signout from db@app
+2022-03-25/18:20:07		Prediction for data complete
+2022-03-25/18:43:09		entered into homepage
+2022-03-25/18:43:19		database  connected
+2022-03-25/18:43:20		database connected and created table successfully
+2022-03-25/18:43:21		database closed suceesfully@app
+2022-03-25/18:43:21		App started. Exiting method...
+2022-03-25/18:43:40		Getting input from Form
+2022-03-25/18:43:40		Entered into predict function@app
+2022-03-25/18:43:51		entered input data into the database successfully@app
+2022-03-25/18:43:51		signout from db@app
+2022-03-25/18:44:02		Prediction for data complete
+2022-06-02/00:56:52		entered into homepage
+2022-06-02/00:57:02		unable to connect to the database
+2022-06-02/01:00:00		entered into homepage
+2022-06-02/01:00:05		unable to connect to the database
+2022-06-02/01:06:13		entered into homepage
+2022-06-02/01:06:18		unable to connect to the database
+2022-06-02/01:12:36		entered into homepage
+2022-06-02/01:12:41		unable to connect to the database.Message:Unable to connect to the metadata service at https://8ab418f3-4161-4370-b2c9-5a2b884c65e1-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-02/01:28:41		entered into homepage
+2022-06-02/01:28:46		unable to connect to the database.Message:Unable to connect to the metadata service at https://8ab418f3-4161-4370-b2c9-5a2b884c65e1-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-02/13:04:35		entered into homepage
+2022-06-02/13:04:46		unable to connect to the database.Message:Unable to connect to the metadata service at https://8ab418f3-4161-4370-b2c9-5a2b884c65e1-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-02/23:55:10		entered into homepage
+2022-06-02/23:55:25		unable to connect to the database.Message:Unable to connect to the metadata service at https://8ab418f3-4161-4370-b2c9-5a2b884c65e1-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-03/00:00:53		entered into homepage
+2022-06-03/00:00:58		unable to connect to the database.Message:Unable to connect to the metadata service at https://8ab418f3-4161-4370-b2c9-5a2b884c65e1-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-03/00:18:00		entered into homepage
+2022-06-03/00:18:12		database  connected
+2022-06-03/00:18:12		database connected and created table successfully
+2022-06-03/00:18:12		database closed suceesfully@app
+2022-06-03/00:18:12		App started. Exiting method...
+2022-06-03/00:18:48		Getting input from Form
+2022-06-03/00:18:48		Entered into predict function@app
+2022-06-03/00:18:57		unable to connect to the database.Message:Error from server: code=2200 [Invalid query] message="table test_keyspace.tab does not exist"
+2022-06-03/00:27:22		entered into homepage
+2022-06-03/00:27:30		database  connected
+2022-06-03/00:27:30		database connected and created table successfully
+2022-06-03/00:27:32		database closed suceesfully@app
+2022-06-03/00:27:32		App started. Exiting method...
+2022-06-03/00:27:45		Getting input from Form
+2022-06-03/00:27:45		exiting from manual input function
+2022-06-03/00:27:45		Entered into predict function@app
+2022-06-03/00:27:54		unable to connect to the database.Message:Error from server: code=2200 [Invalid query] message="table test_keyspace.tab does not exist"
+2022-06-03/00:30:52		entered into homepage
+2022-06-03/00:30:59		database  connected
+2022-06-03/00:30:59		database connected and created table successfully
+2022-06-03/00:31:01		database closed suceesfully@app
+2022-06-03/00:31:01		App started. Exiting method...
+2022-06-03/00:31:11		Getting input from Form
+2022-06-03/00:31:11		exiting from manual input function
+2022-06-03/00:31:11		Entered into predict function@app
+2022-06-03/00:31:19		unable to connect to the database.Message:Error from server: code=2200 [Invalid query] message="table test_keyspace.tab does not exist"
+2022-06-03/00:34:23		entered into homepage
+2022-06-03/00:34:31		database  connected
+2022-06-03/00:34:31		database connected and created table successfully
+2022-06-03/00:34:32		database closed suceesfully@app
+2022-06-03/00:34:32		App started. Exiting method...
+2022-06-03/00:34:44		Getting input from Form
+2022-06-03/00:34:44		exiting from manual input function
+2022-06-03/00:34:44		Entered into predict function@app
+2022-06-03/00:34:52		unable to connect to the database.Message:Error from server: code=2200 [Invalid query] message="table test_keyspace.tab does not exist"
+2022-06-03/00:36:40		entered into homepage
+2022-06-03/00:36:48		database  connected
+2022-06-03/00:36:48		database connected and created table successfully
+2022-06-03/00:36:49		database closed suceesfully@app
+2022-06-03/00:36:49		App started. Exiting method...
+2022-06-03/00:37:04		Getting input from Form
+2022-06-03/00:37:04		exiting from manual input function
+2022-06-03/00:37:04		Entered into predict function@app
+2022-06-03/00:37:12		entered input data into the database successfully@app
+2022-06-03/00:37:13		signout from db@app
+2022-06-03/00:37:21		Prediction for data complete
+2022-06-04/14:28:24		entered into homepage
+2022-06-04/14:28:27		unable to connect to the database.Message:Unable to connect to the metadata service at https://47a6a195-498f-4737-8014-80f3a13122af-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-04/14:28:27		entered into homepage
+2022-06-04/14:28:27		unable to connect to the database.Message:Unable to connect to the metadata service at https://47a6a195-498f-4737-8014-80f3a13122af-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-04/14:34:58		entered into homepage
+2022-06-04/14:35:07		database  connected
+2022-06-04/14:35:07		database connected and created table successfully
+2022-06-04/14:35:08		database closed suceesfully@app
+2022-06-04/14:35:08		App started. Exiting method...
+2022-06-04/14:35:27		Getting input from Form
+2022-06-04/14:35:27		exiting from manual input function
+2022-06-04/14:35:27		Entered into predict function@app
+2022-06-04/14:35:36		entered input data into the database successfully@app
+2022-06-04/14:35:36		signout from db@app
+2022-06-04/14:35:46		Prediction for data complete
+2022-06-07/11:41:40		entered into homepage
+2022-06-07/11:41:41		unable to connect to the database.Message:Unable to connect to the metadata service at https://47a6a195-498f-4737-8014-80f3a13122af-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-07/11:42:03		entered into homepage
+2022-06-07/11:42:03		unable to connect to the database.Message:Unable to connect to the metadata service at https://47a6a195-498f-4737-8014-80f3a13122af-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-07/11:42:18		entered into homepage
+2022-06-07/11:42:18		unable to connect to the database.Message:Unable to connect to the metadata service at https://47a6a195-498f-4737-8014-80f3a13122af-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-07/11:43:55		entered into homepage
+2022-06-07/11:44:07		unable to connect to the database.Message:Unable to connect to the metadata service at https://47a6a195-498f-4737-8014-80f3a13122af-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-07/11:44:34		entered into homepage
+2022-06-07/11:44:40		unable to connect to the database.Message:Unable to connect to the metadata service at https://47a6a195-498f-4737-8014-80f3a13122af-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-07/11:44:56		entered into homepage
+2022-06-07/11:44:58		unable to connect to the database.Message:Unable to connect to the metadata service at https://47a6a195-498f-4737-8014-80f3a13122af-asia-south1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+2022-06-07/11:48:59		entered into homepage
+2022-06-07/11:49:08		database  connected
+2022-06-07/11:49:08		database connected and created table successfully
+2022-06-07/11:49:09		database closed suceesfully@app
+2022-06-07/11:49:09		App started. Exiting method...
+2022-06-07/11:49:23		Getting input from Form
+2022-06-07/11:49:23		exiting from manual input function
+2022-06-07/11:49:23		Entered into predict function@app
+2022-06-07/11:49:32		entered input data into the database successfully@app
+2022-06-07/11:49:33		signout from db@app
+2022-06-07/11:49:45		Prediction for data complete

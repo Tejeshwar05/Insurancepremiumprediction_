@@ -1,0 +1,2 @@
+2022-06-07/11:49:43		Entered into load_model func!!
+2022-06-07/11:49:43		 loaded. Exiting loadModel method of FileHandler class
